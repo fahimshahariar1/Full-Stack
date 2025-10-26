@@ -1,8 +1,6 @@
-body{
-    background: wheat;
-    color: purple;
-    font-size: 50px;
-    font-weight: lighter;
-    text-align: center;
-    margin-top: 10px;
+input {
+width: 400;
+}
+img {
+    width: 300;
 }
