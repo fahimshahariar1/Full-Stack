@@ -1,8 +1,13 @@
+.main {
+    margin-top: 100;
+}
+
 input {
 width: 400;
 display: block;
 }
 img {
+
     width: 300;
     display: block;
 }
